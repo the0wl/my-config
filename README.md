@@ -19,6 +19,42 @@
 
 ## Programs list
 
+**Browser:** 
+- qutebrowser
+- vivaldi
+- mozilla
+
+**Text editor:** 
+- [Visual Studio Code](https://www.electronjs.org/apps/visual-studio-code)
+- [Atom](https://www.electronjs.org/apps/atom)
+- Vim
+
+**Terminal**
+- Oh my zsh
+- [hyper](https://www.electronjs.org/apps/hyper)
+- git
+- chocolatey
+- npm
+- yarn
+
+**Docker**
+
+**Libre office**
+
+**Some utilitaries:** 
+- [Postbird](https://www.electronjs.org/apps/postbird)
+- [MongoDB Compass](https://www.electronjs.org/apps/mongodb-compass)
+- [SQLyog](https://github.com/webyog/sqlyog-community/wiki/Downloads)
+- [Minta](https://www.electronjs.org/apps/minta)
+- [Insomnia](https://www.electronjs.org/apps/insomnia)
+
+**RAD studio**
+
+**Hobby**
+- Kindle
+- Steam
+- Discord
+
 ---
 
 ## Windows
